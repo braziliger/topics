@@ -1,0 +1,19 @@
+h1 {
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+hr.dotted {
+    border-top: 2px dashed #aaa;
+}
+
+a.centered {
+    text-align: center;
+}
+
+img.comingsoon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
